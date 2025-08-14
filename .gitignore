@@ -1,0 +1,17 @@
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.swp
+
+# Log files that might accidentally be created
+*.log
