@@ -18,7 +18,7 @@ Thank you for your interest in contributing to the TD Cost Calculator module! Th
 ```bash
 # Fork the repository on GitHub
 # Then clone your fork
-git clone https://github.com/YOUR_USERNAME/td-cost-calcultaror.git
+git clone https://github.com/SveionT83/td-cost-calcultaror.git
 cd td-cost-calcultaror
 
 # Add the upstream repository
