@@ -1,0 +1,21 @@
+{
+    "name": "Cost Calculator",
+    "slug": "td-cost-calcultaror",
+    "version": "0.1.0-beta",
+    "description": "Advanced cost calculation module for TaskHub",
+    "author": "TronderData",
+    "providers": [
+        "TronderData\\TdCostCalculator\\Providers\\TdCostCalculatorServiceProvider"
+    ],
+    "dependencies": [
+        "core"
+    ],
+    "routes": {
+        "web": "src/routes/web.php",
+        "api": "src/routes/api.php"
+    },
+    "migrations": "src/database/migrations",
+    "views": "src/resources/views",
+    "config": "src/config",
+    "enabled": true
+}
